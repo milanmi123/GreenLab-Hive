@@ -1,0 +1,13 @@
+<experiment>
+  <configHash>69399f4da1dee542b009f34c3ec43b6e</configHash>
+  <outputDir>/home/pi/external_hdd/android-runner/examples/batterystats/output/2021.10.10_160123/</outputDir>
+  <runsToRun>
+    <run runId="0">
+      <device>j7duo2</device>
+      <path>https://www.bilibili.com</path>
+      <browser>chrome</browser>
+      <runCount>1</runCount>
+    </run>
+  </runsToRun>
+  <runsDone/>
+</experiment>

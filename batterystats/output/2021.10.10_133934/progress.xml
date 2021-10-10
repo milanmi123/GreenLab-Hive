@@ -1,0 +1,13 @@
+<experiment>
+  <configHash>bb0e05db42dd9a6c1f1f840ffd3f7f98</configHash>
+  <outputDir>/home/pi/external_hdd/android-runner/examples/batterystats/output/2021.10.10_133934/</outputDir>
+  <runsToRun>
+    <run runId="0">
+      <device>j7duo2</device>
+      <path>https://www.google.com</path>
+      <browser>chrome</browser>
+      <runCount>1</runCount>
+    </run>
+  </runsToRun>
+  <runsDone/>
+</experiment>

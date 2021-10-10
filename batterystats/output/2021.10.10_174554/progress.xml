@@ -1,0 +1,28 @@
+<experiment>
+  <configHash>ced24ab7d4298d6e49a1874ffba4d96a</configHash>
+  <outputDir>/home/pi/external_hdd/android-runner/examples/batterystats/output/2021.10.10_174554/</outputDir>
+  <runsToRun>
+    <run runId="2">
+      <device>j7duo2</device>
+      <path>com.facebook.katanza</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="3">
+      <device>j7duo2</device>
+      <path>com.facebook.katanza</path>
+      <runCount>2</runCount>
+    </run>
+  </runsToRun>
+  <runsDone>
+    <run runId="0">
+      <device>j7duo2</device>
+      <path>org.mozilla.firefox</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>j7duo2</device>
+      <path>org.mozilla.firefox</path>
+      <runCount>2</runCount>
+    </run>
+  </runsDone>
+</experiment>

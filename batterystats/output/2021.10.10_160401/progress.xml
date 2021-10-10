@@ -1,0 +1,37 @@
+<experiment>
+  <configHash>5cfdf09cdb16d720e76f8243cb458bc3</configHash>
+  <outputDir>/home/pi/external_hdd/android-runner/examples/batterystats/output/2021.10.10_160401/</outputDir>
+  <runsToRun>
+    <run runId="0">
+      <device>j7duo2</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>j7duo2</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>j7duo2</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>j7duo2</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="4">
+      <device>j7duo2</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="5">
+      <device>j7duo2</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <runCount>3</runCount>
+    </run>
+  </runsToRun>
+  <runsDone/>
+</experiment>
