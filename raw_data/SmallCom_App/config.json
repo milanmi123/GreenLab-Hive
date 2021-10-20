@@ -1,0 +1,40 @@
+{
+  "type": "native",
+  "devices": {
+    "j7duo2wifi": {}
+  },
+  "repetitions": 20,
+  "duration": 120000,
+  "monkeyrunner_path": "/usr/lib/android-sdk/tools/monkeyrunner",
+  "systrace_path": "/usr/lib/android-sdk/platform-tools/systrace/systrace.py",
+  "powerprofile_path": "/home/pi/framework-res/res/xml/power_profile.xml",
+  "randomization": true,
+  "apps": [
+    "nl.kruidvat.voordeelkaart",
+    "fr.vinted",
+    "nl.marktplaats.android",
+    "com.contextlogic.wish",
+    "nl.nlebv.app.mall"
+  ],
+  "profilers": {
+    "batterystats": {
+      "cleanup": true,
+      "enable_systrace_parsing": false 
+    }
+  },
+  "scripts": {
+    "before_experiment": "HScripts/before_experiment.py",
+    "before_run": "HScripts/before_run.py",
+    "after_launch": "HScripts/after_launch.py",
+    "interaction":[
+	{ 
+	  "type":"python3",
+	  "path":"HScripts/interaction.py"
+	    }
+    ],
+    "before_close": "HScripts/before_close.py",
+    "after_run": "HScripts/after_run.py",
+    "after_experiment": "HScripts/after_experiment.py"
+  },
+  "time_between_run": 10000
+}
