@@ -1,0 +1,6 @@
+Start Time (Seconds),End Time (Seconds),Duration (Seconds),Component,Energy Consumption (Joule)
+0,200.459,200.459,screen dark,28.887905939200003
+0,200.459,200.459,wifi running,0.41033957300000007
+39.864,200.459,160.595,audio,26.2990372
+39.864,66.665,26.80100000000001,audio,4.388931760000002
+

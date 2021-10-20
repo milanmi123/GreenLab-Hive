@@ -1,0 +1,507 @@
+<experiment>
+  <configHash>3e9878e935605c55bfae783c1ae5dc2c</configHash>
+  <outputDir>/home/pi/external_hdd/android-runner/examples/batterystats/output/2021.10.19_065647/</outputDir>
+  <runsToRun/>
+  <runsDone>
+    <run runId="20">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="27">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="3">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="18">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="52">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="51">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="19">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="14">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="39">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="72">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="46">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="50">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="24">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="79">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="13">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="85">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="86">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="88">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="25">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="95">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="62">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="74">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="37">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="45">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="41">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="12">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="30">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="68">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="82">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="48">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="40">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="32">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="7">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="90">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="97">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="60">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="55">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="49">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="91">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="80">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="15">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="22">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="66">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="75">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="54">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="34">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="67">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="71">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="99">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="10">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="77">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="29">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="58">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="84">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="94">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="65">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="0">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="73">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="23">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="16">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="61">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="63">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="9">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="57">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="93">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="4">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="87">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="44">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="64">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="43">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="28">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="59">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="5">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="35">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="81">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="26">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="56">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="6">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="76">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="47">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="96">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="1">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="33">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="89">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="17">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="98">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="8">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="36">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="11">
+      <device>j7duo2wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="92">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="53">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="70">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="31">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="42">
+      <device>j7duo2wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="21">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="38">
+      <device>j7duo2wifi</device>
+      <path>com.instagram.android</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="83">
+      <device>j7duo2wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="78">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="69">
+      <device>j7duo2wifi</device>
+      <path>com.amazon.mShop.android.shopping</path>
+      <runCount>10</runCount>
+    </run>
+  </runsDone>
+</experiment>
