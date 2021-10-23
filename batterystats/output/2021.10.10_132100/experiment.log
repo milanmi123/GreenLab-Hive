@@ -1,5 +1,0 @@
-2021-10-10 13:21:00,935:INFO:ExperimentFactory:/home/pi/external_hdd/android-runner/examples/batterystats/config_web.json
-2021-10-10 13:21:00,991:DEBUG:AndroidRunner.Adb:Device list:
-{0: '52004f53fe46357d'}
-2021-10-10 13:21:00,992:ERROR:root:ConnectionError: KYVKK16119600056: Device not recognized
-2021-10-10 13:21:01,000:ERROR:root:An error occurred, the experiment has been stopped. To continue, add progress file argument to experiment startup: --progress  No progress file created
